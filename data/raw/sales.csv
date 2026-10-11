@@ -1,0 +1,11 @@
+order_id,order_date,customer,product,category,price,quantity,city,payment_method
+1001,05-02-2026,Ravi,Laptop,Electronics,60000,1,Hyderabad,UPI
+1002,07-01-2026,Priya,Mouse,Electronics,800,2,Bangalore,Card
+1003,10-03-2026,Arjun,Keyboard,Electronics,1500,1,Chennai,UPI
+1004,12-01-2026,Sneha,Monitor,Electronics,12000,2,Hyderabad,Card
+1005,15-01-2026,Ravi,Headphones,Electronics,2500,1,Mumbai,UPI
+1006,18-02-2026,Priya,Laptop,Electronics,60000,1,Bangalore,Card
+1007,20-01-2026,Arjun,Mouse,Electronics,800,3,Chennai,Cash
+1008,22-01-2026,Sneha,Keyboard,Electronics,1500,2,Hyderabad,UPI
+1009,25-01-2026,Ravi,Monitor,Electronics,12000,1,Mumbai,Card
+1010,28-02-2026,Priya,Headphones,Electronics,2500,2,Bangalore,UPI
